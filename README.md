@@ -1,5 +1,5 @@
 <!-- English Section -->
-<h1 align="center">Hi, I'm Theodore Gillot!</h1>
+<h1 align="center">Hi, I'm Theodore Gillot !</h1>
 <h3 align="center">Business & Data Analysis Student</h3>
 
 <p align="center">
@@ -9,9 +9,10 @@
 </p>
 
 - 🔭 I’m currently working on projects in data analysis and business strategy.
-- 🌱 I’m learning more about Python, SQL, and data visualization.
-- 📫 How to reach me: [tgillot@albertschool.com](mailto:tgillot@albertschool.com)
-- 💬 Ask me about business analytics, data science, and project management.
+- 🌱 I’m learning about Python, SQL, data visualization and Assembly for fun !
+- 📫 How to reach me : [tgillot@albertschool.com](mailto:tgillot@albertschool.com)
+- 🔗 Connect directly to me via [Linkedin](https://www.linkedin.com/in/th%C3%A9odore-gillot-a62566239/) !
+- 💬 Don't hesitate to message me, I'm always #OpenToWork and actually looking for internships.
 
 ---
 
@@ -26,7 +27,8 @@
 </p>
 
 - 🔭 Je travaille actuellement sur des projets en analyse de données et en stratégie commerciale.
-- 🌱 J'apprends davantage sur Python, SQL et la visualisation de données.
+- 🌱 J'apprends davantage sur Python, SQL, visualisation de données et un peu d'Assembly pour le fun !
 - 📫 Pour me contacter : [tgillot@albertschool.com](mailto:tgillot@albertschool.com)
-- 💬 N'hésitez pas à me poser des questions sur l'analyse commerciale, la science des données et la gestion de projets.
+- 🔗 Connectez vous à moi sur [Linkedin](https://www.linkedin.com/in/th%C3%A9odore-gillot-a62566239/) !
+- 💬 N'hésitez pas à me contacter directement, je suis toujours disponible pour découvrir de nouveaux horizons et actuellement en recherche intensive de stages.
 
