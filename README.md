@@ -1,55 +1,82 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Théodore%20Gillot&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Business%20%26%20Data%20Analysis%20Student&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Théodore%20Gillot&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20%26%20Data%20Analysis%20Student&descAlignY=58&descSize=20&descColor=ffffff"/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=📊+Turning+data+into+decisions;🚀+Always+learning%2C+always+building;💡+Business+meets+Data+Science" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=764BA2&center=true&vCenter=true&width=550&lines=📊+Turning+data+into+smart+decisions;🚀+Always+learning%2C+always+building;💡+Business+Strategy+%2B+Data+Science;🔍+Actively+looking+for+an+internship!" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Théodore%20Gillot-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9odore-gillot-a62566239/)
-[![Email](https://img.shields.io/badge/Email-tgillot%40albertschool.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tgillot@albertschool.com)
-[![Open To Work](https://img.shields.io/badge/🟢_Status-Open%20To%20Work-brightgreen?style=for-the-badge)](mailto:tgillot@albertschool.com)
+<!-- Contact Badges -->
+<a href="https://www.linkedin.com/in/th%C3%A9odore-gillot-a62566239/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tgillot@albertschool.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://img.shields.io/badge/🟢 Open To Work-2ea44f?style=for-the-badge" alt="Open to Work"/>
+<img src="https://komarev.com/ghpvc/?username=TheodoreGillot&color=764ba2&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🇬🇧 About Me
+## 🇬🇧 About Me &nbsp;&nbsp; 🇫🇷 À propos de moi
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Hello! I'm **Théodore**, a passionate **Business & Data Analysis student** exploring the intersection of **business strategy** and **data science**.
+### 🇬🇧 English
 
-I love uncovering hidden insights within data and transforming them into smart, actionable decisions.
+Hello! I'm **Théodore**, a **Business & Data Analysis** student passionate about the intersection of business strategy and data science.
+
+I love uncovering hidden insights from data and transforming them into actionable decisions.
+
+- 🔭 Working on **data analysis & business strategy** projects
+- 🌱 Learning **Python, SQL, Data Viz** — and **Assembly** for fun!
+- 💬 Always open to collaborate or brainstorm
+- 💼 **Actively seeking an internship**
+- 📫 [tgillot@albertschool.com](mailto:tgillot@albertschool.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🇫🇷 Français
+
+Bonjour ! Je suis **Théodore**, étudiant en **Commerce & Analyse de Données**, passionné par la capacité des données à éclairer la stratégie commerciale.
+
+J'adore trouver des insights cachés dans les données et les transformer en décisions concrètes.
+
+- 🔭 Je travaille sur des projets en **analyse de données**
+- 🌱 J'apprends **Python, SQL, visualisation** — et **Assembly** pour le fun !
+- 💬 Toujours ouvert à de nouveaux horizons
+- 💼 **En recherche active de stage**
+- 📫 [tgillot@albertschool.com](mailto:tgillot@albertschool.com)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 My Stack at a Glance
 
 ```python
 theodore = {
-    "school":    "Albert School",
-    "focus":     ["Data Analysis", "Business Strategy"],
-    "learning":  ["Python", "SQL", "Data Viz", "Assembly"],
-    "looking":   "🔍 Internship opportunities",
-    "contact":   "tgillot@albertschool.com"
+    "🏫 school"   : "Albert School — Paris",
+    "🎯 focus"    : ["Data Analysis", "Business Strategy", "Data Visualization"],
+    "🛠  learning" : ["Python", "SQL", "Pandas", "Tableau", "Power BI", "Assembly"],
+    "🌍 location" : "Paris, France",
+    "📩 contact"  : "tgillot@albertschool.com",
+    "💼 status"   : "🔍 Open to internship opportunities",
 }
 ```
-
-- 🔭 Currently working on **data analysis & business strategy** projects
-- 🌱 Learning **Python, SQL, data visualization** — and **Assembly** for fun!
-- 💬 Always open to chat, collaborate, or brainstorm
-- 💼 Actively seeking **internship opportunities**
-
----
-
-## 🇫🇷 À propos de moi
-
-Bonjour ! Je suis **Théodore**, étudiant en **Commerce & Analyse de Données**, passionné par l'exploration des données et leur capacité à éclairer la stratégie commerciale.
-
-- 🔭 Je travaille sur des projets en **analyse de données et stratégie commerciale**
-- 🌱 J'apprends **Python, SQL, visualisation de données** — et un peu d'**Assembly** pour le fun !
-- 💬 N'hésitez pas à me contacter, je suis toujours ouvert à de nouveaux horizons
-- 💼 En **recherche active de stage**
 
 ---
 
@@ -57,15 +84,28 @@ Bonjour ! Je suis **Théodore**, étudiant en **Commerce & Analyse de Données**
 
 <div align="center">
 
+**Languages & Data**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
+
+**Data Science & Analysis**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**BI & Visualization**
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+**Dev Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -76,14 +116,15 @@ Bonjour ! Je suis **Théodore**, étudiant en **Commerce & Analyse de Données**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheodoreGillot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheodoreGillot&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheodoreGillot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheodoreGillot&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheodoreGillot&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=TheodoreGillot&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -93,34 +134,39 @@ Bonjour ! Je suis **Théodore**, étudiant en **Commerce & Analyse de Données**
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheodoreGillot&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=TheodoreGillot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Théodore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheodoreGillot&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheodoreGillot&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 📬 Get In Touch
+## 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9odore-gillot-a62566239/)
-[![Send Email](https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tgillot@albertschool.com)
+<a href="https://www.linkedin.com/in/th%C3%A9odore-gillot-a62566239/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>
+&nbsp;
+<a href="mailto:tgillot@albertschool.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+</a>
 
-<br/>
+<br/><br/>
 
 > 💼 **Je suis activement à la recherche d'un stage** · **I'm actively looking for an internship**
 >
-> Don't hesitate to reach out — I'm always happy to connect!
+> Feel free to reach out — I'm always happy to connect, discuss data, or explore opportunities together!
 
 </div>
 
@@ -128,8 +174,6 @@ Bonjour ! Je suis **Théodore**, étudiant en **Commerce & Analyse de Données**
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheodoreGillot&color=6E56CF&style=for-the-badge&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 
 </div>
