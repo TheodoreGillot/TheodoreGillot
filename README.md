@@ -15,9 +15,9 @@
 
 <br/><br/>
 
-## About
-
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
+
+### About
 
 Hello, I'm **Théodore** — a Business & Data Analysis student at Albert School, Paris. I'm passionate about the intersection of business strategy and data science, and I love uncovering insights that drive smart decisions.
 
@@ -32,7 +32,7 @@ Bonjour, je suis **Théodore** — étudiant en Commerce & Analyse de Données �
 
 <br/>
 
-## Stack
+### Stack
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Bonjour, je suis **Théodore** — étudiant en Commerce & Analyse de Données �
 
 <br/>
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -58,13 +58,13 @@ Bonjour, je suis **Théodore** — étudiant en Commerce & Analyse de Données �
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheodoreGillot&bg_color=0d1117&color=8B9DC3&line=8B9DC3&point=e0e0e0&area=true&area_color=1a1a2e&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheodoreGillot&bg_color=0d1117&color=8B9DC3&line=8B9DC3&point=8B9DC3&area=true&area_color=8B9DC3&hide_border=true&radius=6&custom_title=Contribution%20Graph" width="90%"/>
 
 </div>
 
 <br/>
 
-## Let's Connect
+### Let's Connect
 
 <div align="center">
 
