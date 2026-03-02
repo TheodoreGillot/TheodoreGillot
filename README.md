@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Théodore%20Gillot&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20%26%20Data%20Analysis%20Student&descAlignY=58&descSize=20&descColor=ffffff"/>
+<!-- Animated Header - & encodé en %26 pour éviter l'erreur XML -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Théodore%20Gillot&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20%2526%20Data%20Analysis%20Student&descAlignY=58&descSize=20&descColor=ffffff"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=764BA2&center=true&vCenter=true&width=550&lines=📊+Turning+data+into+smart+decisions;🚀+Always+learning%2C+always+building;💡+Business+Strategy+%2B+Data+Science;🔍+Actively+looking+for+an+internship!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=764BA2&center=true&vCenter=true&width=550&lines=📊+Turning+data+into+smart+decisions;🚀+Always+learning%2C+always+building;💡+Business+Strategy+%2B+Data+Science;🔍+Actively+looking+for+an+internship!" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +15,7 @@
 <a href="mailto:tgillot@albertschool.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<img src="https://img.shields.io/badge/🟢 Open To Work-2ea44f?style=for-the-badge" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-2ea44f?style=for-the-badge" alt="Open to Work"/>
 <img src="https://komarev.com/ghpvc/?username=TheodoreGillot&color=764ba2&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
@@ -26,7 +24,7 @@
 
 ---
 
-## 🇬🇧 About Me &nbsp;&nbsp; 🇫🇷 À propos de moi
+## 🇬🇧 About Me &nbsp;&nbsp; · &nbsp;&nbsp; 🇫🇷 À propos de moi
 
 <table>
 <tr>
@@ -116,25 +114,7 @@ theodore = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheodoreGillot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheodoreGillot&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TheodoreGillot&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheodoreGillot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheodoreGillot&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -173,7 +153,5 @@ theodore = {
 ---
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
-
 </div>
