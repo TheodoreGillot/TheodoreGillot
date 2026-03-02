@@ -6,12 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=1500&color=8B9DC3&center=true&vCenter=true&width=500&lines=Turning+data+into+smart+decisions;Business+Strategy+%2B+Data+Science;Based+in+Paris+%7C+Open+to+internships" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/th%C3%A9odore-gillot-a62566239/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=8B9DC3&labelColor=1a1a2e"/></a>&nbsp;
-<a href="mailto:tgillot@albertschool.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=8B9DC3&labelColor=1a1a2e"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-1a1a2e?style=flat-square&logo=checkmarx&logoColor=8B9DC3&labelColor=1a1a2e"/>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=TheodoreGillot&color=1a1a2e&style=flat-square&label=views"/>
+<a href="https://www.linkedin.com/in/th%C3%A9odore-gillot-a62566239/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=8B9DC3"/></a>&nbsp;
+<a href="mailto:tgillot@albertschool.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8B9DC3"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-1a1a2e?style=for-the-badge&logo=checkmarx&logoColor=8B9DC3"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=TheodoreGillot&color=1a1a2e&style=for-the-badge&label=Views"/>
 
 </div>
 
@@ -34,19 +34,15 @@ Bonjour, je suis **Théodore** — étudiant en Commerce & Analyse de Données �
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,vscode,github&theme=dark&perline=4"/>
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=8B9DC3)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=8B9DC3)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=8B9DC3)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=8B9DC3)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-1a1a2e?style=flat-square&logo=tableau&logoColor=8B9DC3)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-1a1a2e?style=flat-square&logo=powerbi&logoColor=8B9DC3)&nbsp;
-![Excel](https://img.shields.io/badge/Excel-1a1a2e?style=flat-square&logo=microsoftexcel&logoColor=8B9DC3)&nbsp;
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=8B9DC3)&nbsp;
-![Assembly](https://img.shields.io/badge/Assembly-1a1a2e?style=flat-square&logoColor=8B9DC3)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=8B9DC3)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=8B9DC3)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=8B9DC3)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=8B9DC3)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-1a1a2e?style=for-the-badge&logo=tableau&logoColor=8B9DC3)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=8B9DC3)&nbsp;
+![Excel](https://img.shields.io/badge/Excel-1a1a2e?style=for-the-badge&logo=microsoftexcel&logoColor=8B9DC3)&nbsp;
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=8B9DC3)&nbsp;
+![Assembly](https://img.shields.io/badge/Assembly-1a1a2e?style=for-the-badge&logoColor=8B9DC3)
 
 </div>
 
