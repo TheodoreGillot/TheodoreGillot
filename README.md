@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Théodore%20Gillot&fontSize=48&fontColor=e0e0e0&animation=fadeIn&fontAlignY=40&desc=Business%20and%20Data%20Analysis%20Student&descAlignY=62&descSize=18&descColor=a0a0b0"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=1500&color=8B9DC3&center=true&vCenter=true&width=500&lines=Turning+data+into+smart+decisions;Business+Strategy+%2B+Data+Science;Based+in+Paris+%7C+Open+to+internships" alt="Typing SVG" />
@@ -14,13 +13,11 @@
 
 </div>
 
-<br/>
-
-<!-- ABOUT -->
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="220"/>
+<br/><br/>
 
 ## About
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
 
 Hello, I'm **Théodore** — a Business & Data Analysis student at Albert School, Paris. I'm passionate about the intersection of business strategy and data science, and I love uncovering insights that drive smart decisions.
 
@@ -34,10 +31,6 @@ Bonjour, je suis **Théodore** — étudiant en Commerce & Analyse de Données �
 <br clear="right"/>
 
 <br/>
-
-<!-- STACK -->
-
-<img align="left" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="180"/>
 
 ## Stack
 
@@ -55,11 +48,7 @@ Bonjour, je suis **Théodore** — étudiant en Commerce & Analyse de Données �
 
 </div>
 
-<br clear="left"/>
-
 <br/>
-
-<!-- GITHUB STATS -->
 
 ## GitHub Stats
 
@@ -75,24 +64,21 @@ Bonjour, je suis **Théodore** — étudiant en Commerce & Analyse de Données �
 
 <br/>
 
-<!-- CONNECT -->
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="180"/>
-
 ## Let's Connect
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/th%C3%A9odore-gillot-a62566239/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=8B9DC3"/></a>&nbsp;&nbsp;
 <a href="mailto:tgillot@albertschool.com"><img src="https://img.shields.io/badge/Send%20an%20Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8B9DC3"/></a>
 
-<br/>
+<br/><br/>
 
 <sub>Open to internship opportunities · Ouvert aux opportunités de stage</sub>
 
-<br clear="right"/>
+</div>
 
 <br/>
 
-<!-- FOOTER -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
 </div>
